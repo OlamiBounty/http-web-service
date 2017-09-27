@@ -1,0 +1,24 @@
+{
+  "name": "http-web-service",
+  "version": "1.0.0",
+  "description": "A http web service that get the Longtitude and Latitude of a Place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlamiBounty/http-web-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlamiBounty/http-web-service/issues"
+  },
+  "homepage": "https://github.com/OlamiBounty/http-web-service#readme",
+  "dependencies": {
+    "request": "^2.82.0",
+    "request-promise": "^4.2.2"
+  }
+}
